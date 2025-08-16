@@ -1,0 +1,2002 @@
+{
+  "iphone_15_pro_1": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_2": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_3": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_4": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_5": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_6": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_7": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_8": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_9": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_10": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_11": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_12": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_13": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_14": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_15": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_16": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_17": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_18": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_19": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_20": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_21": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_22": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_23": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_24": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_25": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_26": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_27": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_28": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_29": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_30": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_31": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_32": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_33": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_34": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_35": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_36": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_37": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_38": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_39": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_40": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_41": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_42": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_43": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_44": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_45": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_46": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_47": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_48": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_49": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_50": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_51": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_52": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_53": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_54": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_55": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_56": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_57": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_58": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_59": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_60": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_61": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_62": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_63": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_64": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_65": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_66": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_67": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_68": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_69": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_70": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_71": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_72": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_73": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_74": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_75": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_76": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_77": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_78": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_79": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_80": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_81": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_82": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_83": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_84": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_85": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_86": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_87": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_88": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_89": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_90": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_91": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_92": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_93": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_94": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_95": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_96": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_97": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_98": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_99": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_100": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_101": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_102": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_103": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_104": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_105": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_106": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_107": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_108": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_109": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_110": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_111": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_112": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_113": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_114": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_115": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_116": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_117": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_118": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_119": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_120": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_121": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_122": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_123": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_124": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_125": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_126": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_127": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_128": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_129": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_130": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_131": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_132": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_133": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_134": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_135": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_136": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_137": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_138": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_139": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_140": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_141": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_142": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_143": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_144": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_145": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_146": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_147": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_148": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_149": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_150": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_151": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_152": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_153": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_154": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_155": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_156": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_157": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_158": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_159": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_160": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_161": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_162": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_163": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_164": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_165": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_166": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_167": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_168": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_169": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_170": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_171": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_172": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_173": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_174": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_175": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_176": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_177": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_178": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_179": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_180": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_181": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_182": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_183": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_184": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_185": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_186": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_187": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_188": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_189": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_190": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_191": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_192": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_193": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_194": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_195": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_196": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_197": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_198": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_199": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_200": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_201": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_202": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_203": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_204": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_205": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_206": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_207": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_208": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_209": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_210": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_211": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_212": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_213": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_214": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_215": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_216": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_217": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_218": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_219": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_220": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_221": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_222": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_223": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_224": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_225": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_226": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_227": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_228": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_229": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_230": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_231": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_232": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_233": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_234": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_235": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_236": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_237": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_238": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_239": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_240": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_241": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_242": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_243": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_244": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_245": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_246": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_247": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_248": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_249": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_250": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_251": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_252": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_253": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_254": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_255": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_256": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_257": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_258": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_259": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_260": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_261": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_262": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_263": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_264": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_265": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_266": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_267": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_268": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_269": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_270": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_271": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_272": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_273": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_274": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_275": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_276": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_277": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_278": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_279": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_280": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_281": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_282": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_283": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_284": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_285": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_286": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_287": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_288": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_289": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_290": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_291": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_292": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_293": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_294": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_295": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_296": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_297": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_298": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_299": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_300": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_301": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_302": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_303": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_304": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_305": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_306": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_307": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_308": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_309": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_310": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_311": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_312": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_313": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_314": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_315": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_316": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_317": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_318": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_319": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_320": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_321": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_322": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_323": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_324": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_325": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_326": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_327": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_328": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_329": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_330": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_331": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_332": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_333": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_334": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_335": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_336": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_337": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_338": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_339": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_340": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_341": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_342": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_343": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_344": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_345": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_346": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_347": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_348": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_349": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_350": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_351": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_352": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_353": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_354": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_355": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_356": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_357": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_358": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_359": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_360": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_361": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_362": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_363": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_364": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_365": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_366": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_367": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_368": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_369": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_370": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_371": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_372": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_373": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_374": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_375": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_376": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_377": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_378": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_379": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_380": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_381": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_382": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_383": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_384": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_385": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_386": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_387": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_388": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_389": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_390": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_391": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_392": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_393": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_394": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_395": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_396": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_397": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_398": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_399": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_400": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_401": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_402": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_403": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_404": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_405": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_406": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_407": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_408": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_409": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_410": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_411": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_412": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_413": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_414": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_415": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_416": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_417": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_418": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_419": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_420": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_421": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_422": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_423": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_424": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_425": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_426": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_427": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_428": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_429": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_430": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_431": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_432": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_433": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_434": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_435": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_436": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_437": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_438": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_439": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_440": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_441": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_442": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_443": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_444": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_445": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_446": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_447": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_448": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_449": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_450": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_451": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_452": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_453": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_454": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_455": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_456": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_457": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_458": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_459": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_460": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_461": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_462": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_463": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_464": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_465": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_466": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_467": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_468": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_469": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_470": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_471": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_472": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_473": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_474": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_475": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_476": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_477": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_478": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_479": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_480": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_481": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_482": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_483": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_484": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_485": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_486": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_487": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_488": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_489": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_490": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  },
+  "iphone_15_pro_491": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+    "window_size": "393,852"
+  },
+  "iphone_se_3rd_gen_492": {
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1",
+    "window_size": "375,667"
+  },
+  "galaxy_s24_493": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "pixel_8_494": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "oneplus_11_495": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; CPH2451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xiaomi_mi_11_496": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; Mi 11) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "393,873"
+  },
+  "huawei_p50_pro_497": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 12; HUAWEI P50 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+    "window_size": "428,926"
+  },
+  "galaxy_z_fold_5_folded_498": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "360,748"
+  },
+  "motorola_edge_plus_2023_499": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; motorola edge plus 2023) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "412,915"
+  },
+  "xperia_1_v_500": {
+    "user_agent": "Mozilla/5.0 (Linux; Android 13; Xperia 1 V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "window_size": "384,854"
+  }
+}
